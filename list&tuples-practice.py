@@ -14,7 +14,6 @@ print(student_namelist)   """
 fav_dramas=[]
 fav_dramas.append("sinf-e-ahan")
 fav_dramas.append("kafeel")
-fav_dramas.append("tere bin")
 print(fav_dramas)                 """
 
 """
